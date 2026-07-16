@@ -16,7 +16,7 @@ The architecture is designed with modularity in mind, allowing for configurable 
 
 The following waveform demonstrates a successful transmission and reception of data (0x55) in a loopback configuration.
 
-![UART Simulation Waveform](uart_output.png)
+![UART Simulation Waveform](uart_output.jpeg)
 
 ## Getting Started
 
